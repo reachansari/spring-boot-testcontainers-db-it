@@ -18,14 +18,14 @@ The class CustomerController.java contains the below endpoint.
 
 
 ## Prerequisite
-Java
-Docker Desktop
+-  Java
+-  Docker Desktop
 
 ## Libraries used
-Spring Boot
-Spring Configuration
-Junit
-Development Tools
+-  Spring Boot
+-  Spring Configuration
+-  Junit
+-  Development Tools
 
 ## Compilation Command
 mvn clean install - Plain maven clean and install
